@@ -1,0 +1,496 @@
+body, div, dl, dt, dd, h1, h2, h3, h4, h5, h6, p, pre, code, blockquote {
+	margin:0;
+	padding:0;
+	border-width:0;
+}
+body {
+	-epub-hyphens:auto;
+}
+div.Basic-Graphics-Frame {
+	border-color:#000000;
+	border-width:1px;
+	border-style:solid;
+}
+p.Body-copy--email- {
+	-epub-hyphens:none;
+	color:#000000;
+	font-family:"Proxima Nova", sans-serif;
+	font-size:16px;
+	font-style:normal;
+	font-variant:normal;
+	font-weight:normal;
+	line-height:1.625;
+	margin-bottom:8px;
+	margin-left:0;
+	margin-right:0;
+	margin-top:0;
+	orphans:1;
+	page-break-after:auto;
+	page-break-before:auto;
+	text-align:left;
+	text-decoration:none;
+	text-indent:0;
+	text-transform:none;
+	widows:1;
+}
+
+p.Body-copy--emailNEW- {
+	-epub-hyphens:none;
+	color:#562100;
+	font-family:"Proxima Nova", sans-serif;
+	font-size:16px;
+	font-style:normal;
+	font-variant:normal;
+	font-weight:normal;
+	line-height:1.625;
+	margin-bottom:8px;
+	margin-left:0;
+	margin-right:0;
+	margin-top:0;
+	orphans:1;
+	page-break-after:auto;
+	page-break-before:auto;
+	text-align:left;
+	text-decoration:none;
+	text-indent:0;
+	text-transform:none;
+	widows:1;
+	padding:10px 10px 10px 0px
+}
+
+p.Body-copy--email---Medium-weight {
+	-epub-hyphens:none;
+	color:#000000;
+	font-family:"Proxima Nova Medium", sans-serif;
+	font-size:16px;
+	font-style:normal;
+	font-variant:normal;
+	font-weight:500;
+	line-height:1.625;
+	margin-bottom:20px;
+	margin-left:0;
+	margin-right:0;
+	margin-top:0;
+	orphans:1;
+	page-break-after:auto;
+	page-break-before:auto;
+	text-align:left;
+	text-decoration:none;
+	text-indent:0;
+	text-transform:none;
+	widows:1;
+}
+p.Body-copy--email---links {
+	-epub-hyphens:none;
+	color:#415dd0;
+	font-family:"Proxima Nova Extrabold", sans-serif;
+	font-size:16px;
+	font-style:normal;
+	font-variant:normal;
+	font-weight:800;
+	line-height:1.625;
+	margin-bottom:8px;
+	margin-left:0;
+	margin-right:0;
+	margin-top:4px;
+	orphans:1;
+	page-break-after:auto;
+	page-break-before:auto;
+	text-align:left;
+	text-decoration:none;
+	text-indent:0;
+	text-transform:none;
+	widows:1;
+}
+p.CTAs {
+	-epub-hyphens:none;
+	color:#000000;
+	font-family:"Proxima Nova", sans-serif;
+	font-size:14px;
+	font-style:normal;
+	font-variant:normal;
+	font-weight:normal;
+	line-height:1.571;
+	margin-bottom:9px;
+	margin-left:0;
+	margin-right:0;
+	margin-top:0;
+	orphans:1;
+	page-break-after:auto;
+	page-break-before:auto;
+	text-align:center;
+	text-decoration:none;
+	text-indent:0;
+	text-transform:none;
+	widows:1;
+}
+p.Footer-Hs--email- {
+	-epub-hyphens:none;
+	color:#000000;
+	font-family:"Proxima Nova", sans-serif;
+	font-size:14px;
+	font-style:normal;
+	font-variant:normal;
+	font-weight:bold;
+	line-height:1.571;
+	margin-bottom:0;
+	margin-left:0;
+	margin-right:0;
+	margin-top:0;
+	orphans:1;
+	page-break-after:auto;
+	page-break-before:auto;
+	text-align:left;
+	text-decoration:none;
+	text-indent:0;
+	text-transform:none;
+	widows:1;
+}
+p.Footer-copy--email- {
+	-epub-hyphens:none;
+	color:#562100;
+	font-family:"Proxima Nova", sans-serif;
+	font-size:14px;
+	font-style:normal;
+	font-variant:normal;
+	font-weight:normal;
+	line-height:1.296;
+	margin-bottom:10px;
+	margin-left:0;
+	margin-right:0;
+	margin-top:0;
+	orphans:1;
+	page-break-after:auto;
+	page-break-before:auto;
+	text-align:left;
+	text-decoration:none;
+	text-indent:0;
+	text-transform:none;
+	widows:1;
+}
+p.H1--Email- {
+	-epub-hyphens:none;
+	color:#ffffff;
+	font-family:MerriweatherLight, serif;
+	font-size:32px;
+	font-style:normal;
+	font-variant:normal;
+	font-weight:300;
+	line-height:1.188;
+	margin-bottom:8px;
+	margin-left:0;
+	margin-right:0;
+	margin-top:0;
+	orphans:1;
+	page-break-after:auto;
+	page-break-before:auto;
+	text-align:left;
+	text-decoration:none;
+	text-indent:0;
+	text-transform:none;
+	widows:1;
+}
+p.H2--Email- {
+	-epub-hyphens:none;
+	color:#562100;
+	font-family:"Proxima Nova", sans-serif;
+	font-size:24px;
+	font-style:normal;
+	font-variant:normal;
+	font-weight:bold;
+	line-height:1.333;
+	margin-bottom:12px;
+	margin-left:0;
+	margin-right:0;
+	margin-top:0;
+	orphans:1;
+	page-break-after:auto;
+	page-break-before:auto;
+	text-align:left;
+	text-decoration:none;
+	text-indent:0;
+	text-transform:none;
+	widows:1;
+}
+
+p.learnmore- {
+	-epub-hyphens:none;
+	coloR:black;
+	font-family:"Proxima Nova", sans-serif;
+	font-size:24px;
+	font-style:normal;
+	font-variant:normal;
+	font-weight:bold;
+	line-height:1.333;
+	margin-bottom:18px;
+	margin-left:0;
+	margin-right:0;
+	margin-top:0;
+	orphans:1;
+	page-break-after:auto;
+	page-break-before:auto;
+	text-align:left;
+	text-decoration:none;
+	text-indent:0;
+	text-transform:none;
+	widows:1;
+}
+p.Masthead-office-name--email- {
+	-epub-hyphens:none;
+	color:#ffffff;
+	font-family:"Proxima Nova Semibold", sans-serif;
+	font-size:16px;
+	font-style:normal;
+	font-variant:normal;
+	font-weight:600;
+	line-height:1.125;
+	margin-bottom:8px;
+	margin-left:0;
+	margin-right:0;
+	margin-top:0;
+	orphans:1;
+	page-break-after:auto;
+	page-break-before:auto;
+	text-align:right;
+	text-decoration:none;
+	text-indent:0;
+	text-transform:none;
+	widows:1;
+}
+span.CharOverride-1 {
+	color:#562100;
+}
+span.CharOverride-2 {
+	color:#ffffff;
+}
+span.CharOverride-3 {
+	color:#415dd0;
+	font-style:normal;
+	font-weight:bold;
+}
+span.CharOverride-4 {
+	font-style:normal;
+	font-weight:bold;
+}
+#_idContainer000 {
+	display:inline-block;
+	height:511px;
+	position:relative;
+	width:600px;
+}
+#_idContainer001 {
+	display:inline-block;
+	height:2838px;
+	position:relative;
+	width:600px;
+}
+#_idContainer002 {
+	display:inline-block;
+	height:189px;
+	position:relative;
+	width:600px;
+}
+#_idContainer003 {
+	display:inline-block;
+	height:290px;
+	position:relative;
+	width:600px;
+}
+#_idContainer004 {
+	display:inline-block;
+	height:34px;
+	width:162px;
+}
+#_idContainer005, #_idContainer008, #_idContainer011, #_idContainer013, #_idContainer017 {
+	display:inline-block;
+	height:0px;
+	position:relative;
+	width:496px;
+}
+#_idContainer007 {
+	display:inline-block;
+	height:294px;
+	width:497px;
+}
+#_idContainer010 {
+	display:inline-block;
+	height:310px;
+	width:496px;
+}
+#_idContainer015 {
+	display:inline-block;
+	height:29px;
+	position:relative;
+	width:151px;
+}
+#_idContainer020 {
+	display:inline-block;
+	height:150px;
+	width:150px;
+}
+#_idContainer023, #_idContainer035 {
+	display:inline-block;
+	height:28px;
+	position:relative;
+	width:152px;
+}
+#_idContainer024 {
+	display:inline-block;
+	height:21px;
+	position:relative;
+	width:21px;
+}
+#_idContainer028 {
+	display:inline-block;
+	height:20px;
+	width:30px;
+}
+#_idContainer029 {
+	-ms-transform:translate(0.000px,0.000px) rotate(0.000deg) skew(0.000deg) scale(1.000,1.000);
+	-ms-transform-origin:0% 0%;
+	-webkit-transform:translate(0.000px,0.000px) rotate(0.000deg) skew(0.000deg) scale(1.000,1.000);
+	-webkit-transform-origin:0% 0%;
+	height:55.71px;
+	left:0px;
+	position:absolute;
+	top:0px;
+	transform:translate(0.000px,0.000px) rotate(0.000deg) skew(0.000deg) scale(1.000,1.000);
+	transform:translate(0.000px,0.000px) rotate(0.000deg) skew(0.000deg) scale(1.000,1.000);
+	transform-origin:0% 0%;
+	transform-origin:0% 0%;
+	width:55.71px;
+	z-index:1;
+}
+#_idContainer030 {
+	-ms-transform:translate(22.114px,17.631px) rotate(0.000deg) skew(0.000deg) scale(1.000,1.000);
+	-ms-transform-origin:0% 0%;
+	-webkit-transform:translate(22.114px,17.631px) rotate(0.000deg) skew(0.000deg) scale(1.000,1.000);
+	-webkit-transform-origin:0% 0%;
+	height:28.30px;
+	left:0px;
+	position:absolute;
+	top:0px;
+	transform:translate(22.114px,17.631px) rotate(0.000deg) skew(0.000deg) scale(1.000,1.000);
+	transform:translate(22.114px,17.631px) rotate(0.000deg) skew(0.000deg) scale(1.000,1.000);
+	transform-origin:0% 0%;
+	transform-origin:0% 0%;
+	width:25.69px;
+	z-index:0;
+}
+#_idContainer031 {
+	display:inline-block;
+	height:64px;
+	position:relative;
+	width:64px;
+}
+#_idContainer033 {
+	display:inline-block;
+	height:21px;
+	position:relative;
+	width:10px;
+}
+#_idContainer034 {
+	display:inline-block;
+	height:24px;
+	position:relative;
+	width:20px;
+}
+img._idGenObjectAttribute-1 {
+	height:100.00%;
+	min-width:100%;
+	width:100.00%;
+}
+div._idGenObjectStyleOverride-1 {
+	background-color:#562100;
+	border-width:0px;
+}
+div._idGenObjectStyleOverride-2 {
+	background-color:#ffffff;
+	border-width:0px;
+}
+div._idGenObjectStyleOverride-3 {
+	background-color:#ffe655;
+	border-width:0px;
+}
+div._idGenObjectStyleOverride-4 {
+	background-color:#f5f2f0;
+	border-width:0px;
+}
+div._idGenObjectStyleOverride-5 {
+	border-width:0px;
+}
+div._idGenObjectStyleOverride-6 {
+	border-color:#ffffff;
+	border-width:1px;
+}
+div._idGenObjectStyleOverride-7 {
+	background-color:#d9d9d9;
+	border-width:0px;
+}
+div._idGenObjectStyleOverride-8 {
+	border-width:1px;
+}
+div._idGenObjectStyleOverride-9 {
+	background-color:#ffffff;
+	border-color:#949494;
+	border-style:solid;
+	border-width:1px;
+}
+div._idGenObjectStyleOverride-10 {
+	border-color:#ffffff;
+	border-width:4px;
+}
+div._idGenObjectLayout-1 {
+	text-align:center;
+	height:40%
+}
+
+p.H2--EmailNEW- {
+	-epub-hyphens:none;
+	color:#562100;
+	font-family:"Proxima Nova", sans-serif;
+	font-size:24px;
+	font-style:normal;
+	font-variant:normal;
+	font-weight:bold;
+	line-height:1.333;
+	margin-bottom:12px;
+	margin-left:0;
+	margin-right:0;
+	margin-top:2;
+	orphans:1;
+	page-break-after:auto;
+	page-break-before:auto;
+	text-align:left;
+	text-decoration:none;
+	text-indent:0;
+	text-transform:none;
+	widows:1;
+	padding: 10px 10px 10px 10px 
+
+}
+
+
+p.Body-copy--emailNEW- {
+	-epub-hyphens:none;
+	color:#562100;
+	font-family:"Proxima Nova", sans-serif;
+	font-size:16px;
+	font-style:normal;
+	font-variant:normal;
+	font-weight:normal;
+	line-height:1.625;
+	margin-bottom:8px;
+	margin-left:0;
+	margin-right:0;
+	margin-top:0;
+	orphans:1;
+	page-break-after:auto;
+	page-break-before:auto;
+	text-align:left;
+	text-decoration:none;
+	text-indent:0;
+	text-transform:none;
+	widows:1;
+	padding:10px 10px 10px 0px
+}

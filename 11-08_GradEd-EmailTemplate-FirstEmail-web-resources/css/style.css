@@ -1,0 +1,114 @@
+.a1 {
+    display: flex;
+    justify-content: space-between;
+    align-items: flex-end;
+    color:white
+}
+
+.divider {}
+
+#_container1 .title_name{
+    display:flex;
+    flex-direction: column;
+    align-items: flex-start;
+    color:white
+}
+
+#_container1 .text {
+    color: white; 
+    font-size: 26px;
+}
+#_container1 .inital_title {
+    font-weight: 500;
+    font-size: 70px;
+    font-family: "Times New Roman", Times, serif;
+    color:white
+
+}
+.logo {
+    padding: 50px 20px 10px 10px;
+    width:50%;
+}
+
+.plan_image {
+    width: 80%;
+    height: 80%;
+    padding: 0px 10px 5px 5px;
+}
+
+.Linderman_image {
+    width:100%;
+}
+#_container1{
+    background-color: #562100;
+    padding: 100px 20px 10px 10px;
+}
+
+.image_container{
+    display: flex;
+    justify-content: space-between;
+    align-items: flex-end; 
+}
+
+.people{
+    display: flex;
+    justify-content: space-between;
+
+}
+
+.people_image{
+    width: 10%;
+    height: 10%;
+}
+
+.start{
+    background-color:#ffe655;
+    width:600px;
+    height:200px;
+}
+
+.colorbutton1{
+    background-color:aliceblue;
+
+}
+.colorbutton2{
+    background-color:#562100;
+    color:white
+}
+
+.button {
+    display: block;
+    width: 100px;
+    height: 20px;
+    padding: 6px;
+    text-align: center;
+    border-radius: 5px;
+    font-weight: bold;
+    line-height: 15px;
+}
+
+.forbutton{
+    display: grid;
+  grid-template-columns: auto auto auto;
+}
+.forbutton .button{
+    font-weight: 70;
+    font-size: 12px;
+    font-family: "Times New Roman", Times, serif;
+
+}
+
+.a2{
+    display: flex;
+    justify-content: space-between;
+    align-items: flex-end;
+}
+
+.inital_title {
+    font-weight: 300;
+    font-size: 45px;
+    font-family: Times,"serif";
+    color:white
+    
+
+}
